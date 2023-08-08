@@ -21,8 +21,8 @@ Atualmente estudando Desenvolvimento Web Full Stack pela Trybe.
 ## GitHub Status
 
 <div align="center">
-  <img width="49%" height="195px"src="https://github-readme-stats.vercel.app/api?username=argemiroanjos&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&icon_color=4682B4&title_color=00BFFF&bg_color=0d1117"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argemiroanjos&layout=compact&hide_border=true&langs_count=7&theme=dracula&title_color=00BFFF&bg_color=0d1117"/>
+  <img width="49%" height="195px"src="https://github-readme-stats.vercel.app/api?username=vinTibo&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&icon_color=4682B4&title_color=00BFFF&bg_color=0d1117"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinTibo&layout=compact&hide_border=true&langs_count=7&theme=dracula&title_color=00BFFF&bg_color=0d1117"/>
 </div>
 
 
